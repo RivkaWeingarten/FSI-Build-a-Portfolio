@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(228, 228, 228);
+}
+h1{
+     color: forestgreen;
+    }
+h2{color: rgb(135, 128, 33);}
+h3{color:green}
+
+img{ width: 255px;
+    border: 5px solid forestgreen;}
